@@ -1,0 +1,5 @@
+JUnit vs Mockito:
+- Junit bietet volle Kontrolle über Testumgebung und Setup; Mockito bindet an
+  Framework
+- Mockito hat besseres void-method handling
+- Mockito supported neben Mocks auch Spies
